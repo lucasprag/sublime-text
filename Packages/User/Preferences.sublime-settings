@@ -1,0 +1,129 @@
+{
+	"added_words":
+	[
+		"args"
+	],
+	"auto_close_empty_panes": true,
+	"auto_close_tags": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_cycle": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html,source.css"
+		}
+	],
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"detect_indentation": false,
+	"drag_text": false,
+	"draw_indent_guides": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".git",
+		"*.pyc",
+		"*.exe",
+		".DS_Store",
+		"*.log",
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
+	"folder_exclude_patterns":
+	[
+		".cache",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".jhw-cache",
+		"tmp",
+		"coverage",
+		"log",
+		".sass-cache",
+		"node_modules",
+		".bundle",
+		".grunt",
+		".vagrant",
+		".tmp",
+		"bower_components",
+		"_build",
+		".shards",
+		"public/assets",
+		"deps",
+		".nyc_output-client",
+		".nyc_output-server",
+		"flow-typed",
+		".nyc_output",
+		"dist",
+		"ios",
+		"android",
+		".next",
+		"build",
+		"tags",
+		".idea"
+	],
+	"font_face": "Roboto Mono for Powerline",
+	"font_size": 12,
+	"gpu_window_buffer": true,
+	"gutter": false,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"ASP",
+		"C#",
+		"C++",
+		"D",
+		"Git Formats",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"LaTex",
+		"Lisp",
+		"Lua",
+		"Markdown",
+		"Matlab",
+		"OCaml",
+		"Pascal",
+		"Perl",
+		"R",
+		"Rails",
+		"RestructuredText",
+		"Ruby",
+		"Scala",
+		"TCL",
+		"Vintage"
+	],
+	"margin": 12,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": false,
+	"show_line_endings": true,
+	"show_minimap": false,
+	"show_panel_on_build": true,
+	"spell_check": false,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"ui_native_titlebar": true,
+	"ui_separator": false,
+	"ui_wide_scrollbars": false,
+	"wide_caret": true
+}

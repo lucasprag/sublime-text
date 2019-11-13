@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"ayu",
+		"Better Rails",
+		"Better RSpec",
+		"Better Ruby",
+		"Close Others",
+		"Expand Selection to Quotes",
+		"File History",
+		"Name That Color",
+		"Origami",
+		"Package Control",
+		"Rubocop Formatter",
+		"Switch Case",
+		"SyncedSideBar",
+		"Theme - Cyanide"
+	],
+	"repositories":
+	[
+		"https://sublime.fnando.com/repositories.json"
+	]
+}
