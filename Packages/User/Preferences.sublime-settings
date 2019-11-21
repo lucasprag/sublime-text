@@ -23,7 +23,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "solid",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/User/Material Brogrammer.tmTheme",
 	"detect_indentation": false,
 	"drag_text": false,
 	"draw_indent_guides": false,
@@ -107,18 +107,15 @@
 		"TCL",
 		"Vintage"
 	],
-	"margin": 12,
-	"rulers":
-	[
-		100
-	],
+	"margin": 2,
 	"scroll_past_end": false,
 	"show_line_endings": true,
 	"show_minimap": false,
 	"show_panel_on_build": true,
+	"show_tab_close_buttons": false,
 	"spell_check": false,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

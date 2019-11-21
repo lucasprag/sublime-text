@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Autoprefixer",
-		"ayu",
 		"Better Rails",
 		"Better RSpec",
 		"Better Ruby",
@@ -16,10 +15,11 @@
 		"Name That Color",
 		"Origami",
 		"Package Control",
+		"PackageResourceViewer",
 		"Rubocop Formatter",
+		"SideBarEnhancements",
 		"Switch Case",
-		"SyncedSideBar",
-		"Theme - Cyanide"
+		"SyncedSideBar"
 	],
 	"repositories":
 	[
